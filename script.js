@@ -4,9 +4,9 @@ document.addEventListener("DOMContentLoaded", function() {
   
     // Array of image URLs
     const images = [
-      "photos/budha.jpg",
-      "photos/key.webp",
-      "photos/logoooo.jpg"
+      "budha.jpg",
+      "key.webp",
+      "logoooo.jpg"
     ];
   
     let currentImageIndex = 0;
